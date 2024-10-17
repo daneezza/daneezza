@@ -1,12 +1,12 @@
-👋 Hello, I'm Daneesha Hansaka!
-I'm a passionate developer, a curious traveler, and a creative problem solver. Balancing my journey between the digital world of code and the adventurous realm of travel, I’m always exploring new horizons—both in life and tech.
+👋 Hello, I'm Daneesha Hansaka!<br>
+I'm a passionate developer, a curious traveler, and a creative problem solver. Balancing my journey between the digital world of code and the adventurous realm of travel, I’m always exploring new horizons—both in life and tech.<br>
 
-🚀 About Me
-🎓 Currently studying Computer Science at the University of Westminster & IIT Sri Lanka.
-🌍 On a mission to travel the world—one adventure at a time.
-🧑‍💻 Coding enthusiast with a knack for turning ideas into reality through technology.
-📷 Photographer and martial artist who loves capturing the beauty of movement and nature.
-🏍️ Biker, always ready for the next road trip.
+🚀 About Me<br>
+🎓 Currently studying Computer Science at the University of Westminster & IIT Sri Lanka.<br>
+🌍 On a mission to travel the world—one adventure at a time.<br>
+🧑‍💻 Coding enthusiast with a knack for turning ideas into reality through technology.<br>
+📷 Photographer and martial artist who loves capturing the beauty of movement and nature.<br>
+🏍️ Biker, always ready for the next road trip.<br>
 
 
 💡 What I’m Working On
