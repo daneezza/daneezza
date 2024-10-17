@@ -9,21 +9,21 @@ I'm a passionate developer, a curious traveler, and a creative problem solver. B
 🏍️ Biker, always ready for the next road trip.<br>
 
 
-💡 What I’m Working On
-🚀 Exploring new ways to combine tech and travel.
-🌐 Building web applications that enhance user experience.
+💡 What I’m Working On<br>
+🚀 Exploring new ways to combine tech and travel.<br>
+🌐 Building web applications that enhance user experience.<br>
 
-📫 How to Reach Me
-Email: daneesha.2003@hotmail.com
-LinkedIn: Daneesha Hansaka
-Instagram: Daneezza
+📫 How to Reach Me<br>
+Email: daneesha.2003@hotmail.com<br>
+LinkedIn: Daneesha Hansaka<br>
+Instagram: Daneezza<br>
 
-## ☕ Support Me
-If you enjoy my projects or find my content helpful, consider buying me a coffee!
+## ☕ Support Me<br>
+If you enjoy my projects or find my content helpful, consider buying me a coffee!<br>
 
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-F7DF1E?style=flat-square&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/daneezza)
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-F7DF1E?style=flat-square&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/daneezza)<br>
 
-Feel free to connect if you share a passion for tech, travel, or just a good conversation! 😊
+Feel free to connect if you share a passion for tech, travel, or just a good conversation! 😊<br>
 <!---
 daneezza/daneezza is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
