@@ -15,8 +15,8 @@ I'm a passionate developer, a curious traveler, and a creative problem solver. B
 
 📫 How to Reach Me<br>
 Email: daneesha.2003@hotmail.com<br>
-LinkedIn: Daneesha Hansaka<br>
-Instagram: Daneezza<br>
+LinkedIn: [Daneesha Hansaka](https://www.linkedin.com/in/daneezza/)<br>
+Instagram: [Daneezza](https://www.instagram.com/daneezza/?hl=en)<br>
 
 ## ☕ Support Me<br>
 If you enjoy my projects or find my content helpful, consider buying me a coffee!<br>
