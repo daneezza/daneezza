@@ -2,7 +2,7 @@
 I'm a passionate Software developer and a Tech enthusiast. I’m always exploring new horizons in Tech.<br>
 
 About Me<br>
-🎓 Currently studying Computer Science at the University of Westminster & IIT Sri Lanka.<br>
+🎓 Currently studying Computer Science at the Informatics Institute of Technology affiliated with the University of Westminster.<br>
 🧑‍💻 Coding enthusiast with a knack for turning ideas into reality through technology.<br>
 
  What I’m Working On<br>
