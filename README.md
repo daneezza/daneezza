@@ -1,8 +1,8 @@
 👋 Hello, I'm Daneesha Hansaka <br>
-I'm a passionate Software developer and a Tech enthusiast. I’m always exploring new horizons in Tech.<br>
 
 About Me<br>
-🎓 Currently studying Computer Science at the Informatics Institute of Technology affiliated with the University of Westminster.<br>
+🎓 Currently studying Computer Science at the Informatics Institute of Technology affiliated with the University of Westminster.<be>
+🎇I'm a passionate Software developer and a Tech enthusiast. I’m always exploring new horizons in Tech.<br>
 🧑‍💻 Coding enthusiast with a knack for turning ideas into reality through technology.<br>
 
 <h3 align="left">Connect with me:</h3>
