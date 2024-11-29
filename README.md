@@ -5,10 +5,6 @@ About Me<br>
 🎓 Currently studying Computer Science at the Informatics Institute of Technology affiliated with the University of Westminster.<br>
 🧑‍💻 Coding enthusiast with a knack for turning ideas into reality through technology.<br>
 
- What I’m Working On<br>
-🚀 Exploring new ways to combine tech and travel.<br>
-🌐 Building web applications that enhance user experience.<br>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/daneezza_03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="daneezza_03" height="30" width="40" /></a>
