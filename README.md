@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=daneezza&label=Profile%20views&color=0e75b6&style=flat" alt="daneezza" /> </p>
 
-- 👨‍💻 All of my projects are available at [www.daneezza.me](www.daneezza.me)
-
 - 📫 How to reach me **daneeshahansaka9@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
