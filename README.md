@@ -22,26 +22,10 @@ Currently living in **Colombo, Sri Lanka**, I am a tech enthusiast with a knack 
 
 ## Top Projects
 
-- [Trello-Bot](https://github.com/daneezza/trello-bot):  Automated Trello Bot
-  • Stars: 0 
-  • Language: HTML 
-  • Issues: 0
-
-- [Dakapathi-Marketing](https://github.com/daneezza/Dakapathi-Marketing): Dakapathi Marketing Site. 
-  • Stars: 0 
-  • Language: HTML 
-  • Issues: 0 
-
-- [bookstoreAPI](https://github.com/daneezza/bookstoreAPI): A RESTful web service for managing an online bookstore. 
-  • Stars: 0 
-  • Language: Java 
-  • Issues: 0 
-
-- [real-time-ticketing-system](https://github.com/daneezza/real-time-ticketing-system): A system for managing ticket sales in real-time. 
-  • Stars: 0 
-  • Language: JavaScript 
-  • Issues: 0 
-
+[![Trello-Bot](https://github-readme-stats.vercel.app/api/pin/?username=daneezza&repo=trello-bot&theme=dark)](https://github.com/daneezza/trello-bot)
+[![Dakapathi-Marketing](https://github-readme-stats.vercel.app/api/pin/?username=daneezza&repo=Dakapathi-Marketing&theme=dark)](https://github.com/daneezza/Dakapathi-Marketing)
+[![bookstoreAPI](https://github-readme-stats.vercel.app/api/pin/?username=daneezza&repo=bookstoreAPI&theme=dark)](https://github.com/daneezza/bookstoreAPI)
+[![real-time-ticketing-system](https://github-readme-stats.vercel.app/api/pin/?username=daneezza&repo=real-time-ticketing-system&theme=dark)](https://github.com/daneezza/real-time-ticketing-system)
 
 ## GitHub Stats
 
@@ -50,42 +34,9 @@ Currently living in **Colombo, Sri Lanka**, I am a tech enthusiast with a knack 
 ➡️ **Following:** 20  
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=daneezza&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daneezza&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Latest Blog Posts
 
 Check out my blog at [daneezza.me](http://www.daneezza.me) for insights on technology and development!
 
-## Top Projects
-
-- [Trello-Bot](https://github.com/daneezza/trello-bot):  Automated Trello Bot
-  • Stars: 0 
-  • Language: HTML 
-  • Issues: 0
-
-- [Dakapathi-Marketing](https://github.com/daneezza/Dakapathi-Marketing): Dakapathi Marketing Site. 
-  • Stars: 0 
-  • Language: HTML 
-  • Issues: 0 
-
-- [bookstoreAPI](https://github.com/daneezza/bookstoreAPI): A RESTful web service for managing an online bookstore. 
-  • Stars: 0 
-  • Language: Java 
-  • Issues: 0 
-
-- [real-time-ticketing-system](https://github.com/daneezza/real-time-ticketing-system): A system for managing ticket sales in real-time. 
-  • Stars: 0 
-  • Language: JavaScript 
-  • Issues: 0 
-
-
-## GitHub Stats
-
-🌟 **Public Repositories:** 16  
-👥 **Followers:** 19  
-➡️ **Following:** 20  
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=daneezza&show_icons=true&theme=radical)
-
-## Latest Blog Posts
-
-Check out my blog at [daneezza.me](http://www.daneezza.me) for insights on technology and development!
