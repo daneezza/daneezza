@@ -4,17 +4,7 @@ I'm **Daneesha Hansaka**, a Computer Science undergraduate at the University of 
 
 ## About Me
 
-Currently living in **Colombo, Sri Lanka**, I am a tech enthusiast with a knack for problem-solving. I strive to expand my knowledge and skills in software development and automation. I love to collaborate open-source projects.
-
-## Skills & Technologies
-
-## Hi there! 👋
-
-I'm **Daneesha Hansaka**, a Computer Science undergraduate at the University of Westminster. Passionate about technology and coding, I love creating innovative solutions that make life easier and more enjoyable.
-
-## About Me
-
-Currently living in **Colombo, Sri Lanka**, I am a tech enthusiast with a knack for problem-solving. I strive to expand my knowledge and skills in software development and automation. I love to collaborate open-source projects.
+Currently living in **Colombo, Sri Lanka**, I am a tech enthusiast with a knack for problem-solving. I strive to expand my knowledge and skills in software development and automation. I love to collaborate on open-source projects.
 
 ## Skills & Technologies
 
