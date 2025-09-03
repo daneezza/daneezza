@@ -17,13 +17,6 @@ Currently living in **Colombo, Sri Lanka**, I am a tech enthusiast with a knack 
 [![bookstoreAPI](https://github-readme-stats.vercel.app/api/pin/?username=daneezza&repo=bookstoreAPI&theme=dark)](https://github.com/daneezza/bookstoreAPI)
 [![real-time-ticketing-system](https://github-readme-stats.vercel.app/api/pin/?username=daneezza&repo=real-time-ticketing-system&theme=dark)](https://github.com/daneezza/real-time-ticketing-system)
 
-## GitHub Stats
-
-🌟 **Public Repositories:** 16  
-👥 **Followers:** 19  
-➡️ **Following:** 20  
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=daneezza&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daneezza&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Latest Blog Posts
